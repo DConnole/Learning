@@ -21,3 +21,14 @@ li em {
   p span.special {
       color: red;
   }
+  a:link {
+    color: pink;
+    font-weight: bold;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  a:hover {
+    text-decoration: none;
+  }
