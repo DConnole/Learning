@@ -1,1 +1,31 @@
+/* ⚠️ DON'T CHANGE ANYTHING HERE! ⚠️ */
 
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+  }
+  
+  .wrapper {
+    flex: 1;
+  }
+  
+  /* Start writing your CSS below here! ✨ */
+  body{
+    color: red;
+    text-align: center;
+   
+  }
+  
+  .name {
+     text-decoration: underline;
+     font-family:arial;
+     font-size: 18pt; 
+    }
+  
+  background: #ffffff url(https://www.climbing.com/.image/t_share/MTUyMDU3NzkyOTgxNjQwNjg2/_sp_5503_gn-web.jpg)
