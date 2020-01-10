@@ -1,50 +1,41 @@
-/* ⚠️ DON'T CHANGE ANYTHING HERE! ⚠️ */
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  align-items: center;
-  display: flex;
-  flex-direction: row;
-  height: 100vh;
-}
-
-.wrapper {
-  flex: 1;
-}
-
-/* Start writing your CSS below here! ✨ */
 body{
   color: red;
   text-align: center;
-  background-color: blue;
+  background-color:white;
   background-image: url("https://www.climbing.com/.image/t_share/MTUyMDU3NzkyOTgxNjQwNjg2/_sp_5503_gn-web.jpg");
- background-repeat: no-repeat;
- background-size: 100%, 100%;
+  background-repeat: no-repeat;
+  background-size: 100%, 100%;
 }
 h1 {
   font-family:arial;
-  font-size: 18pt;
-  background-color: white;
-  margin-top: -100px;
+  font-size: 20pt;
 }
-.tblock {
+.tblock { 
     border: solid;
     border-color: black;
-    width: 300px;
+    width: 400px;
     text-align: center;
     background-color: #8cafff;
     margin: auto;
+    margin-top: 100px;
     color:#red;
-    
-.name {
+    padding: 15px;
+
+.myname { 
    text-decoration: underline;
   }
   
-p {
-  font-family:arial;
-  font-size: 12;
-  position: center, center;
+.middle {
+  height:130px;
+  margin: auto;
+}
+
+.para {
+    border: solid;
+    border-color: black;
+    width: 500px;
+    height: 128px;
+    text-align: left;
+    background-color: #0c2233;
+    color:#3992d6;
 }
