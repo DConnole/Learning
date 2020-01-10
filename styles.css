@@ -30,6 +30,15 @@ h1 {
   background-color: white;
   margin-top: -100px;
 }
+.tblock {
+    border: solid;
+    border-color: black;
+    width: 300px;
+    text-align: center;
+    background-color: #8cafff;
+    margin: auto;
+    color:#red;
+    
 .name {
    text-decoration: underline;
   }
