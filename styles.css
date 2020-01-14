@@ -30,6 +30,9 @@ h1 {
   margin: auto;
 }
 
+.blankSpace{
+  height: 250px;
+}
 .para {
     border: solid;
     border-color: black;
